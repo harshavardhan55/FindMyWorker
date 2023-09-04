@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>EasyWork</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <header>
+            <div class="main">
+                <dir class="logo">
+                    <img src="easywork-logo 1">
+                </dir>
+                <ul>
+                    <li><a href="#">Login</a></li>
+                    <li><a href="#">SignUp</a></li>     
+                </ul>
+            </div>
+        </header>
+    </body>
+
+</html>
